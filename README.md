@@ -7,3 +7,5 @@ Zip files are 100 MB and 80 mb about respectively and have venv folders too- goo
 
 Final solution 1 has HTML, CSS provided by Great Learning. Did not upload venv file as it exceeded 80 MB
 Final solution 2 has my HTML CSS changes done during lab session.has the venv folder. 
+
+COULD NOT DEPLOY TO HEROKU AND RAILWAY APP AS BOTH ARE PAID AND ASKED FOR MY CREDIT CARD INFO WHICH I DID NOT PROVIDED. INCLUDED THE STEPS REQUIRED IN THE JUPYTER NOTEBOOKS. 
